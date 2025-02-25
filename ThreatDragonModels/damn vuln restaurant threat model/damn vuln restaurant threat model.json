@@ -1,0 +1,16 @@
+{
+  "version": "2.3.0",
+  "summary": {
+    "title": "damn vuln restaurant threat model",
+    "owner": "matt",
+    "description": "deliberately vulnerable python API app",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "also matt",
+    "threatTop": 0
+  }
+}
